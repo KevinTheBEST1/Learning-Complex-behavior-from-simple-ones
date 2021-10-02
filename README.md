@@ -19,7 +19,7 @@ resulting behavior is shown to demonstrate novel combinations
 of characteristics from the sub-behaviors in different situations
 that contribute to the task success.
 
-# Output's
+# Outputs
 ## Lunar Lander
 The output of Lunar Lander is shown below
  - C 
@@ -31,3 +31,18 @@ The output of Lunar Lander is shown below
  - C2
  
  ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/74253717/135729413-4dfd226f-2ddf-412b-b94c-5013976f0ecd.gif)
+ 
+## Maze World
+We tested our approach with both discrete and continuous environments with
+Maze World which is shown below:
+
+ - C 
+
+ ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/74253717/135729793-6c777fad-0a3f-48f7-8afa-c39df58e30db.gif)
+ - C1
+ 
+ ![ezgif com-gif-maker (4)](https://user-images.githubusercontent.com/74253717/135729792-15f8aa4d-5e6e-4932-bbc9-09ddff87cf45.gif)
+ - C2
+
+ ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/74253717/135729790-afb3088c-29a3-4460-abc0-7c4224d1c0a4.gif)
+ 
