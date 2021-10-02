@@ -18,3 +18,13 @@ significantly improving sample efficiency. Furthermore, the
 resulting behavior is shown to demonstrate novel combinations
 of characteristics from the sub-behaviors in different situations
 that contribute to the task success.
+
+# Output's
+## Lunar Lander
+The output of Lunar Lander is shown below
+ - C 
+ ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74253717/135729417-6ca33ac4-3cf9-4e24-832f-c753de891f7f.gif)
+ - C1
+ ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/74253717/135729415-6854e880-4301-45f7-a3d8-4f76352a5bd9.gif)
+ - C2
+ ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/74253717/135729413-4dfd226f-2ddf-412b-b94c-5013976f0ecd.gif)
