@@ -21,7 +21,7 @@ that contribute to the task success.
 
 # Outputs
 ## Lunar Lander
-The output of Lunar Lander is shown below
+The output of Lunar Lander is shown below:
  - C 
  
  ![ezgif com-gif-maker](https://user-images.githubusercontent.com/74253717/135729417-6ca33ac4-3cf9-4e24-832f-c753de891f7f.gif)
@@ -45,4 +45,17 @@ Maze World which is shown below:
  - C2
 
  ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/74253717/135729790-afb3088c-29a3-4460-abc0-7c4224d1c0a4.gif)
+ 
+## Bipedal Walker
+The output of Bipedal Walker is shown as below:
+ - C
+ 
+ ![ezgif com-gif-maker (6)](https://user-images.githubusercontent.com/74253717/135730271-c73b3819-f188-4b9c-a0b7-bbabd3cf93ff.gif)
+ - C1
+ 
+ ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/74253717/135730268-c09fff3f-cf64-4a36-850d-9d1072dea339.gif)
+ - C2
+ 
+ ![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/74253717/135730260-862d4348-6679-401c-9621-8747e2030aae.gif)
+ 
  
